@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Directory Report Views feature.
+ */
+
+include_once 'directory_report_views.features.inc';
