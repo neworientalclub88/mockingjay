@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Daily Report Views feature.
+ */
+
+include_once 'daily_report_views.features.inc';

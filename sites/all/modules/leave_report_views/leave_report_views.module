@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Leave Report Views feature.
+ */
+
+include_once 'leave_report_views.features.inc';
