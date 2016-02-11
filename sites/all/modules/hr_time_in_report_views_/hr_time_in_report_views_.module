@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HR Time In Report Views  feature.
+ */
+
+include_once 'hr_time_in_report_views_.features.inc';

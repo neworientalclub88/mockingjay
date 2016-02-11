@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HR Leave Report Views  feature.
+ */
+
+include_once 'hr_leave_report_views_.features.inc';
