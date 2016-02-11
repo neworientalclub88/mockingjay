@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Directory feature.
+ */
+
+include_once 'directory.features.inc';

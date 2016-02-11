@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Leave feature.
+ */
+
+include_once 'leave.features.inc';
