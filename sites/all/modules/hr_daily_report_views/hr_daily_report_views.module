@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HR Daily Report Views feature.
+ */
+
+include_once 'hr_daily_report_views.features.inc';
