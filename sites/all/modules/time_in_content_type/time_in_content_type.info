@@ -1,0 +1,13 @@
+name = Time In Content Type
+core = 7.x
+package = Features
+dependencies[] = features
+dependencies[] = text
+features[features_api][] = api:2
+features[field_base][] = body
+features[field_base][] = field_time_in
+features[field_base][] = field_time_out
+features[field_instance][] = node-time_in-body
+features[field_instance][] = node-time_in-field_time_in
+features[field_instance][] = node-time_in-field_time_out
+features[node][] = time_in
