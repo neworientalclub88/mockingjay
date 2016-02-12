@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Time In Content Type feature.
+ */
+
+include_once 'time_in_content_type.features.inc';
